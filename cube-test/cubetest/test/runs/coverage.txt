@@ -1,0 +1,8 @@
+1 Q0 d1 1 9 coverageRun 150
+1 Q0 d2 2 8 coverageRun 150
+1 Q0 d3 3 7 coverageRun 150
+1 Q0 d4 4 6 coverageRun 150
+1 Q0 d5 5 5 coverageRun 150
+1 Q0 d6 6 4 coverageRun 150
+1 Q0 d7 7 3 coverageRun 150
+1 Q0 d8 8 2 coverageRun 150

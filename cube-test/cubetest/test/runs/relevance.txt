@@ -1,0 +1,8 @@
+1 Q0 d7 1 9 relevanceRun 150
+1 Q0 d5 7 3 relevanceRun 150
+1 Q0 d8 2 8 relevanceRun 150
+1 Q0 d6 8 2 relevanceRun 150
+1 Q0 d1 3 7 relevanceRun 150
+1 Q0 d2 4 6 relevanceRun 150
+1 Q0 d3 5 5 relevanceRun 150
+1 Q0 d4 6 4 relevanceRun 150
